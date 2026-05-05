@@ -24,7 +24,7 @@ A cloud-based platform for analyzing household electricity consumption patterns,
 Five microservices and three databases on Azure PaaS. The Client UI is the only public-facing service — all backend services and databases are VNet-private.
 
 <p align="center">
-  <img src="./diagrams/system-architecture.png" width="90%" />
+  <img src="./diagrams/system-architecture.svg" width="90%" />
 </p>
 
 ---
